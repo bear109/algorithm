@@ -1,5 +1,5 @@
 /**
- * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131127
+ * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12909
  */
 function solution(s) {
   var answer = true;
